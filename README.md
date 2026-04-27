@@ -33,3 +33,11 @@ The system reads sensor values, processes movement patterns, and maps gestures t
 - Add more gesture commands
 - Improve response speed
 - Add wireless communication features
+
+## Project Preview
+
+### Hardware Setup
+![images](images.jpg)
+
+### Gesture Demo
+![Gesture Demo](images/gesture-demo.jpg)
